@@ -1,0 +1,12 @@
+.DS_Store
+
+.idea
+.vscode
+
+*.log
+*.txt
+
+/tmp
+
+.env
+local.env
